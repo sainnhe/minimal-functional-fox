@@ -1,3 +1,7 @@
+**This fork basically modified the colors used in this theme, checkout different branches for use.**
+
+---
+
 # minimal-functional-fox
 
 > ###### *A minimal, yet functional configuration for Firefox!*
