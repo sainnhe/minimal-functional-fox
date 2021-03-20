@@ -1,18 +1,18 @@
  :root {
 
    /* Minimal Functional Fox variables*/
-  --mff-bg: #323d43;
-  --mff-fg: #d8caac;
+  --mff-bg: #2f383e;
+  --mff-fg: #d3c6aa;
   --mff-icon-color: #a7c080;
-  --mff-sidebar-fg: #d8caac;
+  --mff-sidebar-fg: #d3c6aa;
   --mff-urlbar-focused-fg: #868d80;
   --mff-urlbar-unfocused-fg: #868d80;
-  --mff-urlbar-results-title: #e39b7b;
+  --mff-urlbar-results-title: #e69875;
   --mff-urlbar-results-url: #a7c080;
-  --mff-tab-unselected-fg: #d8caac;
-  --mff-tab-selected-fg: #323d43;
+  --mff-tab-unselected-fg: #d3c6aa;
+  --mff-tab-selected-fg: #2f383e;
   --mff-tab-selected-bg: #a7c080;
-  --mff-tab-soundplaying-bg: #e39b7b;
+  --mff-tab-soundplaying-bg: #e69875;
   --mff-nav-toolbar-padding: 8px;
   --mff-sidebar-bg: var(--mff-bg);
   --mff-tab-border-radius: 0px;
