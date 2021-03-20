@@ -1,18 +1,18 @@
  :root {
 
    /* Minimal Functional Fox variables*/
-  --mff-bg: #323d43;
-  --mff-fg: #d8caac;
-  --mff-icon-color: #a7c080;
-  --mff-sidebar-fg: #d8caac;
-  --mff-urlbar-focused-fg: #868d80;
-  --mff-urlbar-unfocused-fg: #868d80;
-  --mff-urlbar-results-title: #e39b7b;
-  --mff-urlbar-results-url: #a7c080;
-  --mff-tab-unselected-fg: #d8caac;
-  --mff-tab-selected-fg: #323d43;
-  --mff-tab-selected-bg: #a7c080;
-  --mff-tab-soundplaying-bg: #e39b7b;
+  --mff-bg: #fdf6e3;
+  --mff-fg: #5c6a72;
+  --mff-icon-color: #93b259;
+  --mff-sidebar-fg: #5c6a72;
+  --mff-urlbar-focused-fg: #999f93;
+  --mff-urlbar-unfocused-fg: #999f93;
+  --mff-urlbar-results-title: #f57d26;
+  --mff-urlbar-results-url: #93b259;
+  --mff-tab-unselected-fg: #5c6a72;
+  --mff-tab-selected-fg: #fdf6e3;
+  --mff-tab-selected-bg: #93b259;
+  --mff-tab-soundplaying-bg: #f57d26;
   --mff-nav-toolbar-padding: 8px;
   --mff-sidebar-bg: var(--mff-bg);
   --mff-tab-border-radius: 0px;
